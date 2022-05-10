@@ -36,4 +36,4 @@ Now, the feature maps output from the feature extraction part of the model must 
 
 We ran this model for total 10 epochs but it can be experimented further.
 
-We got an 80% accuracy on the training data, and 65 % accuracy with the testing data.
+We got an 80% accuracy on the training data, and 65% accuracy with the testing data.

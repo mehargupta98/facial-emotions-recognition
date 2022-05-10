@@ -32,4 +32,8 @@ Each layer uses the ReLU activation function, which is generally a best practic
 
 Now, the feature maps output from the feature extraction part of the model must be flattened. We then interpret them with one or more fully connected layers, and then output a prediction. The output layer has 8 nodes for the 8 classes and use the softmax activation function.
 
+## 4. Testing 
+
 We ran this model for total 10 epochs but it can be experimented further.
+
+We got an 80% accuracy on the training data, and 65 % accuracy with the testing data.
